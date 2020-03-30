@@ -3,7 +3,7 @@ def using_concat(array,array2)
 end
 
 def using_insert(hello,array)
- hello.insert(array) 
+ hello.insert(4,array) 
   
 end
 
